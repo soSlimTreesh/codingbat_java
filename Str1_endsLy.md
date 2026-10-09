@@ -1,0 +1,15 @@
+**One solution for String 1 - endsLy**
+
+```java
+public boolean endsLy(String str) {
+  if (str.length() > 1) {
+    if (str.charAt(str.length() - 1) == 'y' && str.charAt(str.length() - 2) == 'l') {
+      return true;
+    }
+    else  {
+      return false;
+    }
+  }
+  return false;
+}
+```
