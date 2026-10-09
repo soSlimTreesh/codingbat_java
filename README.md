@@ -7,7 +7,7 @@ CodingBat is a free website (codingbat.com) where students practice writing smal
 **Completed Levels**
 - Warmup-1 0/30
 - Warmup-2 0/30
-- String-1 4/30
+- String-1 7/30
 - Array-1 0/30
 - Logic-1 30/30
 - Logic-2 0/30
